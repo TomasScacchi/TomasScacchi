@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomasgabrielscacchi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tomasscacchi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tomasscacchi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
 
