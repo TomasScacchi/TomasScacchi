@@ -47,6 +47,6 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasscacchi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasscacchi&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
