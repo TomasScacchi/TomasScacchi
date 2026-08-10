@@ -46,8 +46,10 @@
 </p>
 
 ---
-<p align="center">
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TomasScacchi&theme=radical)](https://github.com/TomasScacchi)
+<p align="center">
+  <a href="https://github.com/TomasScacchi" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=TomasScacchi&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
