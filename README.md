@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">A passionate Full-Stack Developer & Software Engineering Student from Salta, Argentina 🇦🇷</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tomasgabrielscacchi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tomasscacchi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgabrielscacchi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tomasscacchi@gmail.com)
+
+</div>
 
 ---
 
