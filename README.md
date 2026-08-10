@@ -47,6 +47,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasScacchi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasScacchi&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TomasScacchi&theme=radical)](https://github.com/TomasScacchi)
 </p>
