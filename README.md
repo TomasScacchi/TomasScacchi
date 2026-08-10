@@ -1,32 +1,52 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Tomás Scacchi</a></h1>
-<h3 align="center">A passionate Web Developer from Salta Argentina AR</h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="500" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently studying in <a href="https://www.ucasal.edu.ar" target="blank">Universidad Católica de Salta</a>
-
-- 🌱 I have worked on university projects oriented to web programming, using agile SCRUM methodology.
-  
-- 🌱 I’m currently learning about Python, Java and C.
-
-- 📫 How to reach me **tomasscacchi@gmail.com**
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h1 align="center">Hi 👋, I'm Tomás</h1>
+<h3 align="center">A passionate Full-Stack Developer & Information Engineering Student from Salta, Argentina 🇦🇷</h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/tomasgabrielscacchi">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/TomasScacchi">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
- </div>
-
+  <a href="https://www.linkedin.com/in/tu-usuario-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tomasscacchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-Last Edited on: 16/11/25
+### 👨‍💻 About Me
+
+- 🔭 I’m currently in my 5th year of **Information Engineering** at Universidad Católica de Salta.
+- 💻 I build robust enterprise systems, specializing in **Full-Stack Web Development**.
+- 🧠 I’m currently developing my graduation thesis focused on **Natural Language Processing (NLP)**.
+- 🌱 I have solid experience working with agile methodologies (SCRUM) and implementing complex UI/UX interactions (like Kanban drag-and-drop boards).
+- 📫 How to reach me: **tomasscacchi@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+**Languages & Fundamentals**
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
