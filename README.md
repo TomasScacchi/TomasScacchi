@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
-<h3 align="center">A passionate Full-Stack Developer & Information Engineering Student from Salta, Argentina 🇦🇷</h3>
+<h3 align="center">A passionate Full-Stack Developer & Software Engineering Student from Salta, Argentina 🇦🇷</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomasgabrielscacchi" target="_blank">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently in my 5th year of **Information Engineering** at Universidad Católica de Salta.
+- 🔭 I’m currently in my 5th year of **Software Engineering** at Universidad Católica de Salta.
 - 💻 I build robust enterprise systems, specializing in **Full-Stack Web Development**.
 - 🧠 I’m currently developing my graduation thesis focused on **Natural Language Processing (NLP)**.
 - 🌱 I have solid experience working with agile methodologies (SCRUM) and implementing complex UI/UX interactions (like Kanban drag-and-drop boards).
