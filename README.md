@@ -48,6 +48,6 @@
 
 <p align="center">
   <a href="https://github.com/TomasScacchi" target="_blank">
-    <img src="[![GitHub Streak](https://streak-stats.vercel.app/?user=TomasScacchi&theme=radical)](https://git.io/streak-stats)" alt="GitHub Streak" />
+    <img src="https://streak-stats.vercel.app/?user=TomasScacchi&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
