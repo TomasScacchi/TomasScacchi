@@ -41,8 +41,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=red" alt="JavaScript" />
 </p>
 
 ---
